@@ -55,7 +55,7 @@ authors:
     johndoe:
         name: Lakshay Goel
         bio: Click here to know
-        external-image: false
+        external-image: true
         picture: assets/images/Lakshay1.jpg
         twitter: johndoe
 
