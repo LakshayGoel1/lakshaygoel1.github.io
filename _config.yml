@@ -1,6 +1,6 @@
 # main text of home
 name: Lakshay Goel
-bio:Click here to know...
+bio: Click here to know
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -54,7 +54,7 @@ email: myemail@gmail.com
 authors:
     johndoe:
         name: Lakshay Goel
-        bio: Click to learn something...
+        bio: Click here to know
         external-image: false
         picture: assets/images/Lakshay1.jpg
         twitter: johndoe
