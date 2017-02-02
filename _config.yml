@@ -7,7 +7,7 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/Lakshay1.jpg
 
 # If you want to include your resume, set to true
@@ -55,7 +55,7 @@ authors:
     johndoe:
         name: Lakshay Goel
         bio: Click here to know
-        external-image: false
+        external-image: true
         picture: assets/images/Lakshay1.jpg
         twitter: johndoe
 
